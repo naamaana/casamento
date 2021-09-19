@@ -16,9 +16,9 @@
             tag: url.searchParams.get('tag'),
             showLocation: url.searchParams.get('showLocation'),
             alert: {
-                text: '',
-                type: '',
-                show: false
+                text: 'Mensagem enviada',
+                type: 'info',
+                show: true
             },
             transmissionUrl: null,
             loading: false,

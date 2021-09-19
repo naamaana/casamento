@@ -18,11 +18,11 @@
 }
 
 .alert.info {
-    background: #99b8a5;
+    background: #84b191;
 }
 
 .alert.danger {
-    background: #7d4d4d;
+    background: #a26161;
 }
 
 .alert.warning {

@@ -3,6 +3,7 @@
     const getTransmissionLinkUrl = 'https://naamaana-casamento-api.herokuapp.com/api/configurations';
     const url = new URL(window.location.href);
 
+    
     new Vue({
         el: '.app',
         data: {

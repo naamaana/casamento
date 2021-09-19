@@ -1,4 +1,5 @@
 (async function () {
+    //regeneration git deploy
     const sendMessageUrl = 'https://naamaana-casamento-api.herokuapp.com/api/messages';
     const getTransmissionLinkUrl = 'https://naamaana-casamento-api.herokuapp.com/api/configurations';
     const url = new URL(window.location.href);
